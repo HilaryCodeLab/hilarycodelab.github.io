@@ -3,6 +3,8 @@ title: "Projects"
 layout: archive
 ---
 
+## [TennisApp](../projects/tennisapp)
+A web app for local tennis players to record and track game scores and wins.
 ## [BaddyApp](../projects/baddyapp)
 A web app I developed for my cousin Alex, an enthusiastic badminton session organizer and player.
 ## [Dictionary App](../projects/dictionaryApp)
